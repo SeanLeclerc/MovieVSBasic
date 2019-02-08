@@ -1,0 +1,96 @@
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\bin\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\bin\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\bin\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\bin\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\bin\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\bin\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_SansTreeView\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\bin\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\bin\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\bin\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\bin\Debug\Exercice029.exe
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\bin\Debug\Exercice029.pdb
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\bin\Debug\Exercice029.xml
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+C:\Temp\VB\NotesDeCours\Chapitre15\Exercice029_V2_A2014\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.Cache
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.exe
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.xml
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.pdb
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\bin\Debug\Exercice029.exe
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\bin\Debug\Exercice029.pdb
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\bin\Debug\Exercice029.xml
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V3_A2015_Demarrage\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.Cache
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\bin\Debug\Exercice029.exe
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\bin\Debug\Exercice029.pdb
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\bin\Debug\Exercice029.xml
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.vbprojResolveAssemblyReference.cache
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.Cache
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.vbproj.CoreCompileInputs.cache
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.exe
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.xml
+D:\Inf\ORD_15440_DevApplicII\Cours11\289_Exercice029_V4_A2017_Demarrage\Exercice029\obj\x86\Debug\Exercice029.pdb
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.vbprojResolveAssemblyReference.cache
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.Cache
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.vbproj.CoreCompileInputs.cache
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.exe
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.xml
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.pdb
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\bin\Debug\Exercice029.exe
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\bin\Debug\Exercice029.pdb
+E:\Session 3\Dev. Application\Cours11\Exercise029MR\Exercice029\bin\Debug\Exercice029.xml
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\bin\Debug\Exercice029.exe
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\bin\Debug\Exercice029.pdb
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\bin\Debug\Exercice029.xml
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.vbprojAssemblyReference.cache
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.ExempleDataReader.resources
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.ExempleTreeView.resources
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.Resources.resources
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.SQLTreeView.resources
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.vbproj.GenerateResource.cache
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.vbproj.CoreCompileInputs.cache
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.exe
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.xml
+E:\Session 3\DevApp\Exercice029OG\Exercise029MR\Exercice029\obj\x86\Debug\Exercice029.pdb
